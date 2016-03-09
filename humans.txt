@@ -1,0 +1,29 @@
+/* TEAM */
+	
+	Studio: Agencia Kpelo
+	Twitter: @agenciakpelo
+	From: Guarulhos, SP, Brasil
+
+	Designer: Diogo Capelo
+	Linkedin: diogocapelo
+	From: Guarulhos, SP, Brasil
+
+	Dev Front-End: Thiago Capelo
+	Twitter: @thiagocapelo
+	From: Guarulhos, SP, Brasil
+
+/* THANKS */
+
+	Description: We would like to thank God first.
+
+	Names: Priscila Dutra, Diogo Capelo, Thiago Capelo e Regina Montelli.
+		
+
+/* SITE */
+
+	Last Update: 2016/01
+	Language: Portuguese - Brazil
+	Doctype: HTML5
+	Standards: HTML5, CSS3, JAVASCRIPT, PHP, MYSQL
+	Components: JQuery, Bootstrap
+	IDE: Sublime Text, Transmit, Photoshop

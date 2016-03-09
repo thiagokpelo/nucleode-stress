@@ -1,0 +1,33 @@
+.forest {
+	background-image: url('../images/bg_home1.jpg');
+}
+
+.sea {
+	background-image: url('http://lorempixel.com/1920/535/people/9/');
+}
+
+.agende {
+	background: rgb(255,100,0);
+	padding: 3rem;
+}
+
+.title-agende {
+	text-transform: uppercase;
+	color: #fff;
+	font-family: "Roboto";
+	font-weight: 500;
+	font-size: 1.7em;
+	text-align: center;
+}
+
+.panel-title { color: #8dc153; }
+
+.text-home { margin-top: 50px; }
+
+.page-header-home { margin-top: 20px!important; }
+
+.agende .form-group input, .agende .form-group select, .agende .form-group button{ width: 100%; }
+
+#footer #footer-copyright a { color: #565f73; }
+
+#footer #footer-copyright a:hover { color: #8dc153; }
